@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+    <style>
+    body {background-color: powderblue;} 
 <head>
-<h1 style="background-color:Violet;">Ava's Ditgial Art Portfolio</h1>
+<h1 style="background-color:Violet;">Ava's Ditgial Art Portfolio</h1>  
 </head>
 <body>
 
