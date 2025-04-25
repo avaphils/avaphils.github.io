@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body>
-</body>
-<html>    
-<head>
-<h1 style="font-size:60;">Ava's Ditgial Art Portfolio</h1>  
+<title></title>
 </head>
 <body>
-</body>
-</html>
-</body>
-</html>
+<h1 style="font-size:60;">Ava's Ditgial Art Portfolio</h1>  
+<body>
+<html>
 <h2 style="background-color:Violet;"Pstyle="font-family:verdana;">Project One: Graphic Desgin</h2>
 
 <a href="https://1drv.ms/u/c/f62a60392bbea0f4/EavW-TGx3Y5OmRBWbfZ6StgB-gaBeYEn_DsaPEiA3Rqz_Q?e=g1gAkc" target="_blank">AI Illustrator File</a>
