@@ -51,13 +51,7 @@
 
 <h2 style="background-color:Violet;"Pstyle="font-family:verdana;">Project Three: Moving Image</h2>
 <p style="font-family:courier;"> Inspired by modern television aesthetics as well as personal experiences, I felt as though I had no other choice but to center it around something close to my heart, addiction. In the prime of the pandemic I discovered a TV show called, Euphoria. It centers around an assortment of teenagers who have various struggles with addiction, mental health and extreme trauma. It broke television records with its extremely realistic storytelling and new approach to a television show aesthetic. The atmosphere makes you feel as though you are experiencing first hand what it is like to take hard substance as well as feel the characters emotions through cool colors, glitter and a hypomatic vibe. I wanted to capture this vibe within my video. As someone who struggled with addiction in the past, I felt as though I could capture what it felt like to be deep in it by using home videos and artistic hypotonic videos. While I had big ideas for this project I definitely underestimated the amount of work it takes to create the exact vision within my mind. Starting off strong I was able to create a stable flow of clips that created a trippy atmosphere and felt as though you were experiencing these clips as flashes as memories. However I learned quite quickly that it takes a lot of time to create seamless transitions. I had a last minute idea to change the flow of the video, but if I could I would go back and haven taken the time to continue its original sequence. I added a home video at the end to represent the youthful innocence we all feel before we fall into these struggles. I would try to fit the last clip into the story's order and give it the same flashing vibe as the first half of the video.</p>
-<!DOCTYPE html>
 <html>
 <body>
 
-<iframe width="420" height="315"src="https://youtu.be/u-mTXSqNa1U"></iframe>
-</iframe>
-
-</body>
-</html>
 
