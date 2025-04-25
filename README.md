@@ -22,7 +22,7 @@
 <html>
 <body>
 
-![plant logo normal](https://github.com/user-attachments/assets/9b62a5d6-1ad0-497c-a49a-633eadc9fe33)
+<img src= ![plant logo normal](https://github.com/user-attachments/assets/9b62a5d6-1ad0-497c-a49a-633eadc9fe33)
 
 
 </body>
