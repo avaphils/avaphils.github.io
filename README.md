@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<html></html>
+<body>
+</body>
+<html>
     <style>
     body {background-color: powderblue;} 
 <head>
-<h1 style="background-color:Violet;">Ava's Ditgial Art Portfolio</h1>  
+<h1 style="font-size:60px;">Ava's Ditgial Art Portfolio</h1>  
 </head>
 <body>
-
-<h3 Pstyle="font-family:verdana;">Project One: Graphic Desgin</h3>
+</body>
+</html>
+</html>
+<h3 style="background-color:Violet;"Pstyle="font-family:verdana;">Project One: Graphic Desgin</h3>
 
 <a href="https://1drv.ms/u/c/f62a60392bbea0f4/EavW-TGx3Y5OmRBWbfZ6StgB-gaBeYEn_DsaPEiA3Rqz_Q?e=g1gAkc" target="_blank">AI Illustrator File</a>
 <body>
@@ -18,7 +22,11 @@
 
 </body>
 </html>
-<img src="![plant logo normal](https://github.com/user-attachments/assets/62d1557a-1e52-40f3-aac8-5e9d99ccd7a1)" width="460" height="345">
-
+<img src="![plant logo normal](https://github.com/user-attachments/assets/84539dee-e50f-4863-8c04-f84b76831635)"width="460" height="345">
+</body>
 </body>
 </html>
+<html>
+<h3 style="background-color:Violet;"Pstyle="font-family:verdana;">Project Two: Photoshop</h3>
+<a href="https://photoshop.adobe.com/id/urn:aaid:sc:VA6C2:b1298526-5844-49d5-a558-c43c127eeedd" target="_blank">Photoshop file</a>
+<body>
