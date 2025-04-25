@@ -3,11 +3,9 @@
 <head>
 <body>
 </body>
-<html>
-    <style>
-    body {background-color: powderblue;} 
+<html>    
 <head>
-<h1 style="font-size:60px;">Ava's Ditgial Art Portfolio</h1>  
+<h1 style="font-size:60;">Ava's Ditgial Art Portfolio</h1>  
 </head>
 <body>
 </body>
