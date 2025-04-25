@@ -2,7 +2,7 @@
 <html>
 <head>
 <body style="background-color:mediumseagreen;">
-</head>
+<head>
 <body>
 <h1 style="font-size:60;">Ava's Ditgial Art Portfolio</h1>  
 <body>
