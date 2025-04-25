@@ -16,7 +16,7 @@
 <html>
 <body
  <p>   
-<img src="![plant logo normal](https://github.com/user-attachments/assets/9b62a5d6-1ad0-497c-a49a-633eadc9fe33) "alt=plant.jpg <width="500"height="333">
+<img src="![plant logo normal](https://github.com/user-attachments/assets/9b62a5d6-1ad0-497c-a49a-633eadc9fe33) "alt=img.jpg" <width="500"height="333">
 
 </body>
 </html>
