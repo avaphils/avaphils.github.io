@@ -12,8 +12,9 @@
 <body>
 </body>
 </html>
+</body>
 </html>
-<h3 style="background-color:Violet;"Pstyle="font-family:verdana;">Project One: Graphic Desgin</h3>
+<h2 style="background-color:Violet;"Pstyle="font-family:verdana;">Project One: Graphic Desgin</h2>
 
 <a href="https://1drv.ms/u/c/f62a60392bbea0f4/EavW-TGx3Y5OmRBWbfZ6StgB-gaBeYEn_DsaPEiA3Rqz_Q?e=g1gAkc" target="_blank">AI Illustrator File</a>
 <body>
@@ -27,11 +28,16 @@
 </html>
 </body>
 <html>
-<h3 style="background-color:Violet;"Pstyle="font-family:verdana;">Project Two: Photoshop</h3>
+<h2 style="background-color:Violet;"Pstyle="font-family:verdana;">Project Two: Photoshop</h2>
 <a href="https://photoshop.adobe.com/id/urn:aaid:sc:VA6C2:b1298526-5844-49d5-a558-c43c127eeedd" target="_blank">Photoshop file</a> 
    
 <a href="https://photoshop.adobe.com/id/urn:aaid:sc:VA6C2:df0cf315-84b1-4299-bf22-afcedd2a088e">Photoshop file</a>
 <body>
 <body>
 <p style="font-family:courier;">This project brought a lot of childlike wonder and whimsy back into my life and I genuinely had such a funtime producing and creating these two abstract worlds. I take a lot of inspiration from my surroundings and personal experiences when it comes to creating my own version of a utopia. I grew up in a christian household that centered around the idea of eternal protection, especially in your youth. My mother always explained to me that somewhere in the stars there was an angel watching over you, observing your movements and always making sure where you are is where you need to be. In my mind this translated into a beautiful park somewhere far away in the galaxy, the stars beaming on you while you run around innocently with your friends and family. I knew I also wanted to incorporate the planet Saturn into my piece because it was the first tattoo I have ever gotten. I hold the universe in the palm of my hand, just as children do. If I was to improve upon my project though, I'd definitely take some more time when it comes to the physical editing of putting an object within a new space. In my second image, I would add some shadows underneath of the people to really enhance the idea that they are in the physical space. I'd use a light burning tool in order to create some subtle shadows. I'd also edit the lighting a bit more to give it an authentic darkness to the atmosphere, seeing as they are in deep space. In my first image, I'd edit my angel to be more overbearing and give it center stage attention. I was very caught up in the idea of adding more and more, rather than focusing on a few details in order to create a cohesive photo. It was extremely fun to look up different creatures and other various objects in PDF finder, however I should draw more of a line between adding and creating. Overall I had such a fun time with this project and I believe as a photographer it is so important to learn how to manipulate and create new images using pre-existing images. It opens your mind to a whole new level of photography and breaks the boundaries of what reality can be in photographs.</p>
-<img src="![photoshop project](https://github.com/user-attachments/assets/0956db45-7db0-4f98-8a99-85615ff93649)"width="360" height="245"><img src="![54783-outer-space-planets](https://github.com/user-attachments/assets/8478dfee-d490-477d-9e47-ef44632bcbeb)"width="560" height="345">
+<img src="![photoshop project](https://github.com/user-attachments/assets/0956db45-7db0-4f98-8a99-85615ff93649)"width="960" height="450"><img src="![54783-outer-space-planets](https://github.com/user-attachments/assets/8478dfee-d490-477d-9e47-ef44632bcbeb)"width="960" height="450">
+<head>
+<!DOCTYPE html>
+<h2 style="background-color:Violet;"Pstyle="font-family:verdana;">Project Three: Moving Image</h2>
+<p style="font-family:courier;"> Inspired by modern television aesthetics as well as personal experiences, I felt as though I had no other choice but to center it around something close to my heart, addiction. In the prime of the pandemic I discovered a TV show called, Euphoria. It centers around an assortment of teenagers who have various struggles with addiction, mental health and extreme trauma. It broke television records with its extremely realistic storytelling and new approach to a television show aesthetic. The atmosphere makes you feel as though you are experiencing first hand what it is like to take hard substance as well as feel the characters emotions through cool colors, glitter and a hypomatic vibe. I wanted to capture this vibe within my video. As someone who struggled with addiction in the past, I felt as though I could capture what it felt like to be deep in it by using home videos and artistic hypotonic videos. While I had big ideas for this project I definitely underestimated the amount of work it takes to create the exact vision within my mind. Starting off strong I was able to create a stable flow of clips that created a trippy atmosphere and felt as though you were experiencing these clips as flashes as memories. However I learned quite quickly that it takes a lot of time to create seamless transitions. I had a last minute idea to change the flow of the video, but if I could I would go back and haven taken the time to continue its original sequence. I added a home video at the end to represent the youthful innocence we all feel before we fall into these struggles. I would try to fit the last clip into the story's order and give it the same flashing vibe as the first half of the video.</p>
+
