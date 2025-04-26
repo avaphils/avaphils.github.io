@@ -18,7 +18,7 @@
 
  <html> 
  
- ![Image Alt](https://github.com/user-attachments/assets/9b62a5d6-1ad0-497c-a49a-633eadc9fe33) 
+ ![Image Alt](https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg) 
 
 </body>
 </html>
