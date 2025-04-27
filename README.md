@@ -15,7 +15,11 @@
 <p style="font-family:courier;">While designing a logo for the Southworth Planetarium I was very inspired by my own childhood. Our middle school used to be partners with a local planetarium, we’d frequently take various trips there for our astronomy portion of science class. It was one of my favorite memories from childhood and it opened my eyes to a different way of learning. It's so beneficial for children, especially young girls to be exposed to different types of fields such as astronomy, in real world scenarios. I took a deep dive through the different shows that the planetarium is currently offering and noticed that almost, if not all, were targeted for a younger audience. Seeing as Southworth reflected my own thoughts, the first idea that came to mind for the design of their logo would include a curious girl. Playing with this idea of youth I thought it would be most effective to create a logo that almost had an obvious meaning. Scrolling through The university’s branding page I recognized a pattern of, “simplicity does more”, in terms of consumer loyalty and recognition. In terms of physical location, I wanted to incorporate the pre-existing branding while adding a personal flare that is relatable to a general audience. Husky pride takes high in the sky!</p>
 <html>
 <body>
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
