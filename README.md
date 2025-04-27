@@ -21,9 +21,9 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
- <img alt="imgjpg" src="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
+ <img alt="imgjpg" src="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
 </picture>
 
  <html> 
