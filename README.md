@@ -19,7 +19,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
- <img alt="" src="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
+ <img alt="imgjpg" src="https://github.com/avaphils/avaphils.github.io/blob/39ede4e1e7bdecfb2c7ff6734a4eb591bf1428c5/img.jpg">
 </picture>
 
  <html> 
