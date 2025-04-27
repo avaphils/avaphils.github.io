@@ -23,7 +23,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
- <img alt="imgjpg" src="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
+ <img alt="plant logo normal.jpg" src="https://github.com/avaphils/avaphils.github.io/blob/9bf9e05e52ffcd78d8aebf3e7e904bb48cb5bec3/plant%20logo%20normal.jpg">
 </picture>
 
  <html> 
