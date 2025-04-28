@@ -14,15 +14,8 @@
 <html>    
 <p style="font-family:courier;">While designing a logo for the Southworth Planetarium I was very inspired by my own childhood. Our middle school used to be partners with a local planetarium, we’d frequently take various trips there for our astronomy portion of science class. It was one of my favorite memories from childhood and it opened my eyes to a different way of learning. It's so beneficial for children, especially young girls to be exposed to different types of fields such as astronomy, in real world scenarios. I took a deep dive through the different shows that the planetarium is currently offering and noticed that almost, if not all, were targeted for a younger audience. Seeing as Southworth reflected my own thoughts, the first idea that came to mind for the design of their logo would include a curious girl. Playing with this idea of youth I thought it would be most effective to create a logo that almost had an obvious meaning. Scrolling through The university’s branding page I recognized a pattern of, “simplicity does more”, in terms of consumer loyalty and recognition. In terms of physical location, I wanted to incorporate the pre-existing branding while adding a personal flare that is relatable to a general audience. Husky pride takes high in the sky!</p>
 
-![plant logo normal](https://github.com/user-attachments/assets/21ec3ad7-4408-4deb-8d66-4b11eabf9114)
-
-
-<img src="![plant logo normal](https://github.com/user-attachments/assets/12008fb9-7e59-4f76-b35a-1377a3a73afb)" alt="plant logo normal" style="width:500px;height:600px;">
+<img src="![plant logo normal](https://github.com/user-attachments/assets/21ec3ad7-4408-4deb-8d66-4b11eabf9114)"
    
-<html>
-<body>  
-</body>
-</html>
 <html>
 <body>
 
@@ -42,7 +35,7 @@
 <body>
 
 
-<h2 style="Pstyle="font-family:verdana;">Project Three: Moving Image</h2>
+<h2 Pstyle="font-family:verdana;">Project Three: Moving Image</h2>
 <html>
 <body>
 <p style="font-family:courier;"> Inspired by modern television aesthetics as well as personal experiences, I felt as though I had no other choice but to center it around something close to my heart, addiction. In the prime of the pandemic I discovered a TV show called, Euphoria. It centers around an assortment of teenagers who have various struggles with addiction, mental health and extreme trauma. It broke television records with its extremely realistic storytelling and new approach to a television show aesthetic. The atmosphere makes you feel as though you are experiencing first hand what it is like to take hard substance as well as feel the characters emotions through cool colors, glitter and a hypomatic vibe. I wanted to capture this vibe within my video. As someone who struggled with addiction in the past, I felt as though I could capture what it felt like to be deep in it by using home videos and artistic hypotonic videos. While I had big ideas for this project I definitely underestimated the amount of work it takes to create the exact vision within my mind. Starting off strong I was able to create a stable flow of clips that created a trippy atmosphere and felt as though you were experiencing these clips as flashes as memories. However I learned quite quickly that it takes a lot of time to create seamless transitions. I had a last minute idea to change the flow of the video, but if I could I would go back and haven taken the time to continue its original sequence. I added a home video at the end to represent the youthful innocence we all feel before we fall into these struggles. I would try to fit the last clip into the story's order and give it the same flashing vibe as the first half of the video.</p>
