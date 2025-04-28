@@ -48,7 +48,7 @@
 <html>
 <body>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/u-mTXSqNa1U">
+<iframe width="820" height="645" src="https://www.youtube.com/embed/u-mTXSqNa1U">
 </iframe>
 
 </body>
