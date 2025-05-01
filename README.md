@@ -23,7 +23,7 @@ body {
 <body>
 
 <div class="header">
-  <h1>Ava's Ditgial Art Portfolio</h1>
+  <h1 Pstyle="font-family:verdana Ava's Ditgial Art Portfolio</h1>
   <p>Resize the browser window to see the responsive effect.</p>
 </div>
 <html>
@@ -31,7 +31,6 @@ body {
 <body style="background-color:mediumseagreen;">
 <head>
 <body>
-<h1 style="font-size:100;">Ava's Ditgial Art Portfolio</h1>  
 <body>
 <html>
 <h2 Pstyle="font-family:verdana;">Project One: Graphic Desgin</h2>
