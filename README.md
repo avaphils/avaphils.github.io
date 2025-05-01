@@ -1,4 +1,31 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Ava's Ditgial Art Portfolio</h1>
+  <p>Resize the browser window to see the responsive effect.</p>
+</div>
 <html>
 <head>
 <body style="background-color:mediumseagreen;">
