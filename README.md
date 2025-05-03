@@ -48,13 +48,16 @@ body {
 
 
 </body>
-</head>
+</html>
 
 
 <h2 Pstyle="font-family:verdana;">Project Two: Photoshop</h2>
 <a href="https://photoshop.adobe.com/id/urn:aaid:sc:VA6C2:b1298526-5844-49d5-a558-c43c127eeedd" target="_blank">Photoshop file</a> 
 <body>
-</head>
+</html>
+<body>
+  <html></html>
+</body>
 
 
 <a href="https://photoshop.adobe.com/id/urn:aaid:sc:VA6C2:df0cf315-84b1-4299-bf22-afcedd2a088e">Photoshop file</a>
