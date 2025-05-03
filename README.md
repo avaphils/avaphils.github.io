@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>CSS Website Layout</title>
@@ -87,7 +87,7 @@ body {
 <h2 Pstyle="font-family:verdana;">Project Four: 3D Model</h2>
 
 <a href="https://drive.google.com/drive/folders/19G7cmJ48le5PTlow2OvNlqhdeP2KYpf1?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">Render File</a> 
-
+<br>
 <body>
 <br>
 </body>
