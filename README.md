@@ -86,9 +86,10 @@ body {
 </body>
 </html>
 <h2 Pstyle="font-family:verdana;">Project Four: 3D Model</h2>
+
 <a href="https://drive.google.com/drive/folders/19G7cmJ48le5PTlow2OvNlqhdeP2KYpf1?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">Render File</a> 
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/bb3759c0-ef63-4389-bd31-f4b4bc055269/?raw=true" alt="mug 2" width="1000" height="800"> 
+<img src="https://github.com/user-attachments/assets/bb3759c0-ef63-4389-bd31-f4b4bc055269/?raw=true" alt="mug 2" width="800" height="800"> 
 <br>
