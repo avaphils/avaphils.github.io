@@ -33,7 +33,6 @@ body {
 <body>
 <html>
 <h2 Pstyle="font-family:verdana;">Project One: Graphic Desgin</h2>
-
 <a href="https://1drv.ms/u/c/f62a60392bbea0f4/EavW-TGx3Y5OmRBWbfZ6StgB-gaBeYEn_DsaPEiA3Rqz_Q?e=g1gAkc" target="_blank">AI Illustrator File</a>
 <br>
 <head>    
@@ -91,5 +90,5 @@ body {
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/bb3759c0-ef63-4389-bd31-f4b4bc055269/?raw=true" alt="mug 2" width="800" height="800"> 
-<br>
+<img src="https://github.com/user-attachments/assets/bb3759c0-ef63-4389-bd31-f4b4bc055269/?raw=true" alt="mug 2" width="600" height="800"> 
+
